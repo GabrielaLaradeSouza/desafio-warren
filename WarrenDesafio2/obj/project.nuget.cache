@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3prLFcpp/fbREXKUidbox5ARG/9se/53UII9kfv6Yv3wizu96AAACwbX9eJd7RkIa/Sk9y8iqkajsRXngGIhCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\source\\repos\\WarrenDesafio2\\WarrenDesafio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

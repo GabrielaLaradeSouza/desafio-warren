@@ -1,0 +1,13 @@
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.exe
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.deps.json
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.runtimeconfig.json
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.dll
+C:\Users\tiago\source\repos\WarrenDesafio1\bin\Debug\netcoreapp3.1\WarrenDesafio1.pdb
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.csprojAssemblyReference.cache
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.AssemblyInfo.cs
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.dll
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.pdb
+C:\Users\tiago\source\repos\WarrenDesafio1\obj\Debug\netcoreapp3.1\WarrenDesafio1.genruntimeconfig.cache
